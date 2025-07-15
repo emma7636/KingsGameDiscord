@@ -1,0 +1,22 @@
+{
+  "name": "kingsgamediscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emma7636/KingsGameDiscord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emma7636/KingsGameDiscord/issues"
+  },
+  "homepage": "https://github.com/emma7636/KingsGameDiscord#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
