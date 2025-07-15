@@ -1,4 +1,13 @@
-const express = require('express')
+import 'dotenv/config';
+import express from 'express';
+import {
+  ButtonStyleTypes,
+  InteractionResponseFlags,
+  InteractionResponseType,
+  InteractionType,
+  MessageComponentTypes,
+  verifyKeyMiddleware,
+} from 'discord-interactions';
 const app = express()
 const port = 3000
 
